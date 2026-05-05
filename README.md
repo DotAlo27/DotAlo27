@@ -55,7 +55,7 @@
 
 | Folder | Description | Link |
 |--------|-------------|------|
-| 01-home-lab | Building a multi-VM cybersecurity lab | [View Repo](#) |
+| 01-Home-Lab | Building a multi-VM cybersecurity lab | [View Repo](#) |
 | 02-On-Prem IAM | Identity and Access Management (IAM) in AD | [View Repo](#) |
 | 03-Cloud IAM (AWS) | Configuration and hardening Cloud console in AWS | [View Repo](#) |
 | 04-security-policy-dev | Crafting AUP, password, and ACL policies | [View Repo](#) |
