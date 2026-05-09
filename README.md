@@ -78,6 +78,6 @@
 
 ---
 
-> “Cybersecurity is not only a discipline, it is a mindset.”
+> “Cybersecurity is not only a discipline, but it is also a mindset.”
 
 Thank you for visiting my GitHub. If a repository helps your work, please consider leaving a star.
