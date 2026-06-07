@@ -55,18 +55,20 @@
 
 | Folder | Description | Link |
 |--------|-------------|------|
-| 01-Home-Lab | Building a multi-VM cybersecurity lab | [View Repo](#) |
-| 02-On-Prem IAM | Identity and Access Management (IAM) in AD | [View Repo](#) |
-| 03-Cloud IAM (AWS) | Configuration and hardening Cloud console in AWS | [View Repo](#) |
+| 01-home-Lab | Building a multi-VM cybersecurity lab | [View Repo](#) |
+| 02-ad-deployment | Installing and hardening Active Directory | [View Repo](#) |
+| 03-AWS-deployment | Configuration and hardening Cloud console in AWS | [View Repo](#) |
 | 04-security-policy-dev | Crafting AUP, password, and ACL policies | [View Repo](#) |
-| 05-vulnerability-assessment | Network and web-app scanning with Nessus and Nmap | [View Repo](#) |
-| 06-risk-assessment | CIA impact mapping and risk matrix | [View Repo](#) |
-| 07-mitre-threat-hunt | ATT&CK-aligned threat hunting scripts | [View Repo](#) |
-| 08-phishing-simulation | Lab-based phishing campaign and metrics | [View Repo](#) |
-| 09-phishing-email-forensics | Email header and domain analysis toolkit | [View Repo](#) |
-| 10-linux-permissions-audit | Identifying world-writable and SUID files | [View Repo](#) |
-| 11-Threat-Modeling | Threat Dragon and Windows Threat Modeling Tool | [View Repo](#) |
-| 12-malware-analysis | Static and dynamic malware triage | [View Repo](#) |
+| 05-vulnerability-assessment | Network and web-app scanning with Nessus | [View Repo](#) |
+| 06-penetration-testing | Network and web-app pentest with Nmap
+| 07-risk-assessment | CIA impact mapping and risk matrix | [View Repo](#) |
+| 08-mitre-threat-hunt | ATT&CK-aligned threat hunting scripts | [View Repo](#) |
+| 09-event management | ATT&CK-aligned event management using SPLUNK (spl)
+| 10-phishing-simulation | Lab-based phishing campaign and metrics | [View Repo](#) |
+| 11-phishing-email-forensics | Email header and domain analysis toolkit | [View Repo](#) |
+| 12-linux-permissions-audit | Identifying world-writable and SUID files | [View Repo](#) |
+| 13-Threat-Modeling | Threat Dragon and Windows Threat Modeling Tool | [View Repo](#) |
+| 14-malware-analysis | Static and dynamic malware triage | [View Repo](#) |
 |
 
 ---
